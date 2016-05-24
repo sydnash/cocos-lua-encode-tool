@@ -1,0 +1,16 @@
+game.zip
+/tmp
+Debug.win32/
+/simulator/
+*v12.suo
+*.opensdf
+*.sdf
+assets/
+gen/
+obj/
+bullfight.v12.suo
+libcocos2dlua.so
+build/
+src/
+src_ori/
+src111
